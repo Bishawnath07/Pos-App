@@ -38,7 +38,7 @@ const Products = () => {
                         </div>
                         <ul tabIndex={0} className=" -mt-10 z-[1] p-2 shadow menu menu-sm dropdown-content bg-base-100 rounded-box md:w-[40rem] w-[22rem] h-[10rem] md:h-[45rem] ">
                             <p className="hidden md:flex md:items-center justify-center text-center text-xl font-bold my-4">Categories</p>
-                            <div className="grid grid-cols-4 md:grid-cols-5 gap-2 md:px-5">
+                            <div className="grid grid-cols-4 md:grid-cols-5 gap-2 md:px-5  bg-slate-300 p-1">
                                 <li className="hover:text-[#97aff3] hover:border-[#8eaaf7] cursor-pointer bg-[#fff] px-[2px] md:px-[4px] md:py-2 border-[1px] border-[#c9c5c5] rounded-sm  md:text-[14px] text-[10px]  md:font-bold  font-semibold">All Categorys</li>
                                 <li className="hover:text-[#97aff3] hover:border-[#8eaaf7] cursor-pointer bg-[#fff] px-[6px] md:px-[4px] md:py-2 border-[1px] border-[#c9c5c5] rounded-sm  md:text-[14px] text-[10px]  md:font-bold  font-semibold">Electronics</li>
                                 <li className="hover:text-[#97aff3] hover:border-[#8eaaf7] cursor-pointer bg-[#fff] px-[6px] md:px-[4px] md:py-2 border-[1px] border-[#c9c5c5] rounded-sm  md:text-[14px] text-[10px]  md:font-bold  font-semibold"> Lifestyle </li>
