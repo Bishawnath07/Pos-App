@@ -78,7 +78,7 @@ const OrderPage = () => {
                     <h1 className="font-semibold text-xl ">Steve Jobs</h1>
                 </div>
                 <HiOutlinePlusCircle onClick={() => document.getElementById('my_modal_5').showModal()} className="h-8 w-8 cursor-pointer" />
-                {/* Open the modal using document.getElementById('ID').showModal() method */}
+                {/* Open the modal*/}
                 <dialog id="my_modal_5" className="modal modal-bottom sm:modal-middle">
                     <div className="modal-box ">
                         <div className="">
