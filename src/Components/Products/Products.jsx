@@ -29,9 +29,7 @@ const Products = () => {
 
 
                     </ul>
-                    {/* <button>
-                        <HiEllipsisVertical className="text-[24px] -mt-[8px] cursor-pointer"></HiEllipsisVertical>
-                    </button> */}
+
                     <div className="dropdown dropdown-end">
                         <div tabIndex={0} role="button" className="">
                             <button>
