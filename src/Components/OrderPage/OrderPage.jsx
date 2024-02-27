@@ -84,7 +84,6 @@ const OrderPage = () => {
                         <div className="">
                             <div className="flex justify-center items-center gap-10 my-3">
                                 <form method="dialog">
-                                    {/* if there is a button in form, it will close the modal */}
                                     <button ><HiChevronLeft className="h-5 w-5" /></button>
                                 </form>
                                 <h3 className="font-bold text-lg  ">Add New Costomer!</h3>
