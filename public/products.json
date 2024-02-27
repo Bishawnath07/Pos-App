@@ -61,13 +61,7 @@
       "price": 43 ,
       "name":"Pure White Polo"
     }
-    ,
-    {
-      "id": 10,
-      "url": "https://infinitymegamall.com/wp-content/uploads/2023/07/11a-370x444.jpg",
-      "price": 43 ,
-      "name":"Pure White Polo"
-    }
+   
     ,
     {
       "id": 11,
@@ -103,11 +97,5 @@
       "price": 43 ,
       "name":"Pure White Polo"
     }
-    ,
-    {
-      "id": 16,
-      "url": "https://infinitymegamall.com/wp-content/uploads/2023/07/39b-370x444.jpg",
-      "price": 43 ,
-      "name":"Pure White Polo"
-    }
+    
 ]
