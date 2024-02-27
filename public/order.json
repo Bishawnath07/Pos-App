@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "url": "https://infinitymegamall.com/wp-content/uploads/2023/07/39b-370x444.jpg",
+      "price": 53 ,
+      "name":"Pure White Polo" 
+      
+    }
+    ,
+    {
+      "id": 17,
+      "url": "https://infinitymegamall.com/wp-content/uploads/2023/07/39b-370x444.jpg",
+      "price": 24 ,
+      "name":"Pure White Polo"
+    }
+    ,
+    {
+      "id": 10,
+      "url": "https://infinitymegamall.com/wp-content/uploads/2023/07/11a-370x444.jpg",
+      "price": 10 ,
+      "name":"Pure White Polo"
+    }
+    ,
+    {
+      "id": 11,
+      "url": "https://infinitymegamall.com/wp-content/uploads/2023/11/15a-2-370x444.jpg",
+      "price": 43 ,
+      "name":" White Polo"
+    }
+    ,
+    {
+      "id": 12,
+      "url": "https://infinitymegamall.com/wp-content/uploads/2023/11/10a-1-370x444.jpg",
+      "price": 43 ,
+      "name":"Pure  Polo"
+    }
+    ,
+    {
+      "id": 13,
+      "url": "https://infinitymegamall.com/wp-content/uploads/2023/11/11a-1-370x444.jpg",
+      "price": 43 ,
+      "name":" Polo"
+    }
+    ,
+    {
+      "id": 14,
+      "url": "https://infinitymegamall.com/wp-content/uploads/2023/10/3a-4-370x444.jpg",
+      "price": 43 ,
+      "name":"Pure  Polo"
+    }
+    ,
+    {
+      "id": 15,
+      "url": "https://infinitymegamall.com/wp-content/uploads/2023/07/39b-370x444.jpg",
+      "price": 20 ,
+      "name":"Pure  Polo"
+    }
+    ,
+    {
+      "id": 16,
+      "url": "https://infinitymegamall.com/wp-content/uploads/2023/07/39b-370x444.jpg",
+      "price": 30 ,
+      "name":"Pure White "
+    }
+]

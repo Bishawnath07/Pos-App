@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.kdwfXO {
+    min-height: 41px;
+    max-height: 41px;
+    width: 100%;
+    background: #FFFFFF;
+    color: #2C2C2C;
+    padding: 0.6875rem 0.75rem;
+    font-size: 0.8125rem;
+    font-weight: 500;
+    border: none;
+    border-radius: 4px;
+    font-family: 'Inter';
+    -webkit-transition: 0.2s ease-out;
+    transition: 0.2s ease-out;
+}
+.gleeVG {
+    background: #FFFFFF;
+    border: 1px solid #dfdfdf;
+    border-radius: 4px;
+    -webkit-transition: 0.2s ease-in-out;
+    transition: 0.2s ease-in-out;
+}
